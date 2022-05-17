@@ -1,0 +1,6 @@
+node_modules/
+img/
+app.py
+helper.py
+.eslintrc.json
+tests/
