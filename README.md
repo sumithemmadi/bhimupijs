@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/npm/l/bhimupijs.svg)](https://github.com/sumithemmadi/bhimupijs/blob/main/LICENSE)
 [![Maintenance](https://img.shields.io/npms-io/maintenance-score/bhimupijs)](https://github.com/sumithemmadi/upij)
 [![Issues](https://img.shields.io/github/issues/sumithemmadi/bhimupijs)](https://github.com/sumithemmadi/bhimupijs/issues)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsumithemmadi%2Fbhimupijs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsumithemmadi%2Fbhimupijs?ref=badge_shield)
 
 BHIMUPIJS is a npm module which can  validate, verify  and generate QR Codes for UPI IDs.
 
@@ -160,3 +161,5 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsumithemmadi%2Fbhimupijs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsumithemmadi%2Fbhimupijs?ref=badge_large)
