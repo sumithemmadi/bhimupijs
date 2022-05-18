@@ -87,7 +87,7 @@ Examples:
 ```sh
 ~$ bhimupijs sumithemmadi@ybl --qrcode # this will print a qrcode on terminal
 ```
-![QR Code Image](https://sumithemmadi.me/assets/images/QRimage.png)
+![QR Code Image](img/example.png)
 
 # Name
 
