@@ -96,9 +96,9 @@ Name : Emmadi Sumith Kumar
 ```
 - Here `--name` is used to print the name of a verified UPI ID.
 
-### NodeJS
+## NodeJS
 
-# Verifing UPI ID 
+### Verifing UPI ID 
 ```js
 const { verifyUPI } = require("bhimupijs")
 
@@ -127,7 +127,7 @@ verify(vpa)
 // }
 ```
 
-# Validating UPI ID
+### Validating UPI ID
 ```js
 const { validatePattern } = require("bhimupijs")
 
