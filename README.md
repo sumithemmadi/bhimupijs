@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/sumithemmadi/bhimupijs)](https://github.com/sumithemmadi/bhimupijs/stargazers)
 [![weekly Download](https://img.shields.io/npm/dt/bhimupijs.svg)](https://github.com/sumithemmadi/bhimupijs)
 [![License](https://img.shields.io/npm/l/bhimupijs.svg)](https://github.com/sumithemmadi/bhimupijs/blob/main/LICENSE)
-[![Maintenance](https://img.shields.io/npms-io/maintenance-score/bhimupijs)](https://github.com/sumithemmadi/upij)
+[![Maintenance](https://img.shields.io/npms-io/maintenance-score/bhimupijs)](https://github.com/sumithemmadi/bhimupij)
 [![Issues](https://img.shields.io/github/issues/sumithemmadi/bhimupijs)](https://github.com/sumithemmadi/bhimupijs/issues)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsumithemmadi%2Fbhimupijs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsumithemmadi%2Fbhimupijs?ref=badge_shield)
 
