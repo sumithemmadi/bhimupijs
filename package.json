@@ -1,6 +1,6 @@
 {
   "name": "bhimupijs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BHIMUPIJS is a npm module which can  validate, verify  and generate QR Codes for UPI IDs",
   "main": "index.js",
   "bin": {

@@ -4,7 +4,7 @@
 [![weekly Download](https://img.shields.io/npm/dt/bhimupijs.svg)](https://github.com/sumithemmadi/bhimupijs)
 [![License](https://img.shields.io/npm/l/bhimupijs.svg)](https://github.com/sumithemmadi/bhimupijs/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/sumithemmadi/bhimupijs)](https://github.com/sumithemmadi/bhimupijs/issues)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsumithemmadi%2Fbhimupijs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsumithemmadi%2Fbhimupijs?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsumithemmadi%2Fbhimupijs.svg?type=shield)](https://github.com/sumithemmadi/bhimupijs)
 
 BHIMUPIJS is a npm module which can  validate, verify  and generate QR Codes for UPI IDs.
 
@@ -84,7 +84,7 @@ Examples:
 ### Print QR Code 
 
 ```sh
-~$ bhimupijs sumithemmadi@ybl --qrcode # this will print a qrcode on terminal
+~$ bhimupijs sumithemmadi@ybl --qrcode 
 ```
 ![QR Code Image](img/example.png)
 
@@ -105,7 +105,7 @@ const { verifyUPI } = require("bhimupijs")
 const vpa = "sumithemmadi@ybl";
 
 async function verify(vpa){
-    var upiData = await verifyUPI(vpa)  // verifyUPI function is used to verify UPI ID
+    var upiData = await verifyUPI(vpa)  
     console.log(upiData)
 }
 
@@ -161,4 +161,4 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsumithemmadi%2Fbhimupijs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsumithemmadi%2Fbhimupijs?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsumithemmadi%2Fbhimupijs.svg?type=large)](https://github.com/sumithemmadi/bhimupijs)
