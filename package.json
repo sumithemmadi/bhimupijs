@@ -1,6 +1,6 @@
 {
   "name": "bhimupijs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "BHIMUPIJS is a npm module which can  validate, verify  and generate QR Codes for UPI IDs",
   "main": "index.js",
   "bin": {
@@ -10,9 +10,9 @@
     "src": "src"
   },
   "dependencies": {
-    "yargs": "^17.2.1",
     "axios": "^0.24.0",
-    "qrcode-terminal": "^0.12.0"
+    "qrcode-terminal": "^0.12.0",
+    "yargs": "^17.2.1"
   },
   "scripts": {
     "test": "node ./bin/index.js sumithemmadi@ybl",
@@ -44,6 +44,7 @@
   },
   "homepage": "https://github.com/sumithemmadi/bhimupijs#readme",
   "devDependencies": {
-    "eslint": "^8.15.0"
+    "eslint": "^8.15.0",
+    "prettier": "2.7.1"
   }
 }

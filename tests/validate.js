@@ -1,4 +1,4 @@
-const { validatePattern } = require("..")
+const { validatePattern } = require("..");
 
-var data =  validatePattern("sumithemmadi@ybl") 
-console.log(data)
+var data = validatePattern("sumithemmadi@ybl");
+console.log(data);
