@@ -1,0 +1,5 @@
+*.md
+build
+dist
+node_modules
+coverage
